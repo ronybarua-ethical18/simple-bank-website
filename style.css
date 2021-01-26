@@ -1,0 +1,47 @@
+body{
+
+    margin: 0;
+    padding: 0;
+}
+#login-area{
+
+    margin-top:100px;
+}
+.submit-area{
+
+    margin:80px auto auto auto ;
+    padding:50px;
+    border-radius: 10px;
+    border:1px solid gray;
+    box-shadow:8px 8px 8px gray;
+}
+.login-info{
+
+    margin-bottom: 20px;
+}
+#transaction-area{
+
+    display:none;
+    width:90%;
+    margin:100px auto auto auto;
+    
+}
+.common-margin{
+
+    margin:0 15px;
+    padding:20px;
+    color:#fff;
+    border-radius:10px;
+}
+.deposit{
+
+    background-color: slateblue;
+}
+.withdraw{
+
+    background-color: lightsalmon;
+}
+.balance{
+
+    background-color: orange;
+}
